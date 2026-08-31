@@ -1,15 +1,13 @@
-## Hi there 👋
+# Hello World 👋
 
-<!--
-**pcjibu/pcjibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository was created for my IT3038C Scripting Languages Git and GitHub assignment.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on - School
-- 🌱 I’m currently learning - Scripting
-- 👯 I’m looking to collaborate on - getting a job 
-- 🤔 I’m looking for help with - getting a job
-- 💬 Ask me about - cybersecurity 
-- 📫 How to reach me: - linkdlin
-- ⚡ Fun fact: - i like basketball
--->
+- 🔭 I’m currently working on school.
+- 🌱 I’m currently learning scripting.
+- 👯 I’m interested in collaborating on projects that build job-ready skills.
+- 🤔 I’m looking for guidance as I prepare for a career in technology.
+- 💬 Ask me about cybersecurity.
+- 📫 Connect with me on LinkedIn.
+- ⚡ Fun fact: I like basketball.
